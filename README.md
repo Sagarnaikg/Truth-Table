@@ -1,5 +1,5 @@
 # Truth-Table
-Program to print trth table of a boolean expression
+Program to print truth table of a boolean expression
 
 The sample output of the program :-
 
