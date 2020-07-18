@@ -38,7 +38,7 @@ Truth Table :
 The expression is valid
 ```
 output 2  :-
-
+```
 Enter the Valid expression which only consists of logic gates AND,OR,T,F  give the expression in the form expression1 <=> expression2
 Expression = a^b <=> bva
 
@@ -62,6 +62,6 @@ Truth Table :
 
 The expression is invalid
 
-
+```
 
 
