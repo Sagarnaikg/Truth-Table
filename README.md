@@ -4,7 +4,7 @@ Program to print truth table of a boolean expression
 The sample output of the program :-
 
 output 1 :-
-
+```
 Enter the Valid expression which only consists of logic gates AND,OR,T,F  give the expression in the form expression1 <=> expression2
 Expression = a^bvc <=> cvb^a
 
@@ -36,7 +36,7 @@ Truth Table :
     1     |    1     |    1     |        1                       |         1                  |
 
 The expression is valid
-
+```
 output 2  :-
 
 Enter the Valid expression which only consists of logic gates AND,OR,T,F  give the expression in the form expression1 <=> expression2
